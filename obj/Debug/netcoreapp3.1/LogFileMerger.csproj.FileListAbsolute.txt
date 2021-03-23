@@ -1,0 +1,11 @@
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.exe
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.deps.json
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.runtimeconfig.json
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.runtimeconfig.dev.json
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.dll
+C:\PersonalDev\LogFileMerger\LogFileMerger\bin\Debug\netcoreapp3.1\LogFileMerger.pdb
+C:\PersonalDev\LogFileMerger\LogFileMerger\obj\Debug\netcoreapp3.1\LogFileMerger.csprojAssemblyReference.cache
+C:\PersonalDev\LogFileMerger\LogFileMerger\obj\Debug\netcoreapp3.1\LogFileMerger.AssemblyInfoInputs.cache
+C:\PersonalDev\LogFileMerger\LogFileMerger\obj\Debug\netcoreapp3.1\LogFileMerger.AssemblyInfo.cs
+C:\PersonalDev\LogFileMerger\LogFileMerger\obj\Debug\netcoreapp3.1\LogFileMerger.dll
+C:\PersonalDev\LogFileMerger\LogFileMerger\obj\Debug\netcoreapp3.1\LogFileMerger.pdb
